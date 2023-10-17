@@ -1,4 +1,4 @@
-var xhr = new XMLHttpRequest(); //bikin objectnya
+var xhr = new XMLHttpRequest();
 
   xhr.open("GET", "http://159.223.51.203:81/api/bio");
 
